@@ -1,3 +1,2 @@
 library(DBI)
-library(tidyverse) #Hello world 
-library(RPostgres)
+library(tidyverse) # Hello world
